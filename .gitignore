@@ -1,0 +1,45 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# 컴포넌트 코드 비공개
+/src
+
+# dependencies
+/node_modules
+
+# reports
+reports
+
+# testing
+/coverage
+
+dist
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# goorm
+goorm.manifest
+.temp
+
+#rollup
+components/**/*.scss.json
+
+# sub module
+src/libs/reactstrap/*
+
+.vscode
+
+# lib dist
+build
+es
+cjs
+
+.env

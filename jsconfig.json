@@ -1,0 +1,14 @@
+// config/alias.js 도 함께 수정할 것
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"jsx": "react",
+		"paths": {
+			"_components/*": ["../src/components/*"],
+			"_hooks/*": ["../src/hooks/*"],
+			"_constants/*": ["../src/constants/*"],
+			"_utils/*": ["../src/utils/*"],
+			"_libs/reactstrap/*": ["../src/libs/reactstrap/*"]
+		}
+	}
+}
