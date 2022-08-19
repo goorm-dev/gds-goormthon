@@ -1,3 +1,0 @@
-[submodule "src/libs/reactstrap"]
-	path = src/libs/reactstrap
-	url = https://github.com/reactstrap/reactstrap.git
