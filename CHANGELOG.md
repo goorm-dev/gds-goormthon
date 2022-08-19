@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.3](https://github.com/goorm-dev/gds-goormthon/compare/v0.0.2...v0.0.3) (2022-08-19)
+
+
+### Features
+
+* welcome to 9oormthon ([dc8218a](https://github.com/goorm-dev/gds-goormthon/commit/dc8218a161e1bb64e695f82af38091fed1ba0010))
+
 ### 0.0.2 (2022-08-19)
 
 ### Features
