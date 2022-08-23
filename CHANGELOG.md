@@ -2,7 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### [0.0.3](https://github.com/goorm-dev/gds-goormthon/compare/v0.0.2...v0.0.3) (2022-08-19)
+## 0.0.6 (2022-08-23)
+
+
+### Bug Fixes
+
+* d.ts 수정 ([6301871](https://github.com/goorm-dev/gds-goormthon/commit/6301871b998f62b6e3f60005885a9cd72d0ec76f))
+
+## 0.0.3 (2022-08-19)
 
 
 ### Features
@@ -11,7 +18,7 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.0.2 (2022-08-19)
 
-### Features
+## Features
 
 - init project ([d9315ef](https://github.com/goorm-dev/gds-goormthon/commit/d9315efee6794ac850abe7405361ce70cfb884f0))
 - update submodules ([94d2e97](https://github.com/goorm-dev/gds-goormthon/commit/94d2e9722b1c2f3853daf4701af81b407fbc4486))
@@ -19,6 +26,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.0.1 (2022-08-19)
 
-### Features
+## Features
 
 - init project ([d9315ef](https://github.com/goorm-dev/gds-goormthon/commit/d9315efee6794ac850abe7405361ce70cfb884f0))
