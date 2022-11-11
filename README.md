@@ -23,10 +23,10 @@
 
 #### 패키지 설치
 
-  1. CRA
+  1. CRA인 경우
   ```shell
   npx create-react-app goormthon-test
-  npm install reactstrap @goorm-dev/gds-goormthon
+  cd goormthon-test && npm install reactstrap @goorm-dev/gds-goormthon
   ```
 
 
